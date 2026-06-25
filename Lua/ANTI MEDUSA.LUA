@@ -1,4 +1,3 @@
-# Anti-medusa
 -- ============================================
 -- Medusa Insta-Reset + Anti-Ragdoll | Standalone
 -- Toggle ON = both active, instant detection
